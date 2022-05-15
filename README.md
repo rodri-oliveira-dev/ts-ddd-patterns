@@ -1,2 +1,2 @@
 # ts-ddd-patterns
-Estudo de Domain-Driven Design
+Estudo de Domain-Driven Design com TypeScript
